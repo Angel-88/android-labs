@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="first_lab">First lab :)</string>
+    <string name="like">like</string>
 </resources>
